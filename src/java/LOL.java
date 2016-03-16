@@ -6,8 +6,8 @@
 
 /**
  *
- * @author ancam
+ * @author Sena
  */
-public class temp1 {
+public class LOL {
     
 }
